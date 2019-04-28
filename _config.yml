@@ -1,0 +1,23 @@
+# Site settings
+title: PipeCash Organization
+email: aleks@bitcoinsofia.com
+description: > # this means to ignore newlines until "baseurl:"
+  An organization dedicated to providing PipeCash services and support.
+  PipeCash is a multipurpose automation framework, designed specifically for convenient use together with Bitcoin.
+  Learn more about PipeCash at http://pipe.cash/
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://pipecash.org/" # the base hostname & protocol for your site
+
+twitter_username: "@pipe_cash"
+github_username: "Pipe-Cash"
+
+# Build settings
+markdown: kramdown
+
+designerAppUrl: https://pipecash.herokuapp.com/
+
+forumUrl: https://forum.pipecash.org/
+
+learningUrl: https://youtu.be/4V-hyq_Fx0E
+
+telegramUri: https://t.me/pipecash
