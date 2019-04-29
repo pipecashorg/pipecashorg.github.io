@@ -14,9 +14,9 @@ github_username: "Pipe-Cash"
 # Build settings
 markdown: kramdown
 
-designerAppUrl: https://pipecash.herokuapp.com/
+designerAppUrl: http://designer.pipecash.org/
 
-forumUrl: https://forum.pipecash.org/
+forumUrl: http://forum.pipecash.org/
 
 learningUrl: https://youtu.be/4V-hyq_Fx0E
 
