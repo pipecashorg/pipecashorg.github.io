@@ -231,11 +231,19 @@ header {
     display: block;
 }
 
+#portfolio {
+    margin: 20px 50px;
+}
+
 .portfolio-box {
     position: relative;
     display: block;
-    max-width: 650px;
     margin: 0 auto;
+
+    .portfolio-img {
+        width: 100%;
+    }
+
     .portfolio-box-caption {
         color: white;
         opacity: 0;
