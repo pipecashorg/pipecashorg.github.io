@@ -4,7 +4,7 @@ email: aleks@bitcoinsofia.com
 description: > # this means to ignore newlines until "baseurl:"
   An organization dedicated to providing PipeCash services and support.
   PipeCash is a multipurpose automation framework, designed specifically for convenient use together with Bitcoin.
-  Learn more about PipeCash at http://pipe.cash/
+  Learn more about PipeCash at https://pipe-cash.github.io/
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pipecash.org/" # the base hostname & protocol for your site
 
